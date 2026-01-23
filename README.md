@@ -5,7 +5,6 @@
 
 Me chamo Íris Finamor, tenho 19 anos e sou natural do Rio de Janeiro. Concluí o ensino médio no CAP-UFRJ e atualmente, estou cursando Ciência da Computação no 3 periodo. Sou apaixonada por tecnologia e compartilho minha trajetória através do meu perfil no LinkedIn [Íris Finamor](https://www.linkedin.com/in/íris-f-277ba3340)
 
-)"
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -31,7 +30,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.s
  
 <br/>
 <br/>
-### 📊 Estatísticas
+# 📊 Estatísticas
 
 <p>
   <img 
