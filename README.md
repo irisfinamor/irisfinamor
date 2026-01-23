@@ -37,5 +37,5 @@
 
 ---
 <p align="center">
-  <i>"Aprendendo todos os dias e construindo meu caminho na tecnologia."</i>
+  <i>"Pouco a pouco, vai-se longe."</i>
 </p>
