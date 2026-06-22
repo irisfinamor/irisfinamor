@@ -1,4 +1,4 @@
-<h1 align="center">👩🏻‍💻 Íris Finamor</h1>
+<h1 align="center">👩🏻‍💻 Iris Finamor</h1>
 
 <p align="center">
   <b>Estudante de Ciência da Computação • Dados • Backend</b>
