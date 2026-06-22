@@ -11,8 +11,8 @@
 </p>
 
 
-🎓 Estudante de Ciência da Computação (3º período)  
-📍 Rio de Janeiro • CAP-UFRJ(2023)  
+🎓 Estudante de Ciência da Computação (4º período)  
+📍 Rio de Janeiro • BNDES 
 💡 Apaixonada por tecnologia e dados  
 🔗 Compartilho minha trajetória no [LinkedIn](https://www.linkedin.com/in/iris-f-277ba3340)
 
