@@ -1,7 +1,7 @@
 <h1 align="center">👩🏻‍💻 Iris Finamor</h1>
 
 <p align="center">
-  <b>Estudante de Ciência da Computação • Dados • Backend</b>
+  <b>Estudante de Engenharia da Computação • Dados • Backend</b>
 </p>
 
 <p align="center">
@@ -11,8 +11,8 @@
 </p>
 
 
-🎓 Estudante de Ciência da Computação (4º período)  
-📍 Rio de Janeiro • BNDES 
+🎓 Estudante de Engenharia da Computação (4º período)  
+📍 Rio de Janeiro • BNDES • Python
 💡 Apaixonada por tecnologia e dados  
 🔗 Compartilho minha trajetória no [LinkedIn](https://www.linkedin.com/in/iris-f-277ba3340)
 
